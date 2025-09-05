@@ -10,16 +10,39 @@ Visually, the website combines a clean and modern design with appetizing food im
 
 This project is ideal for showcasing my front-end development skills while also serving as a template for restaurants and food businesses looking to establish an online presence.
 
+
 🔑 Key Highlights
-
 Eye-catching homepage with strong branding.
-
 Responsive design for all devices.
-
 Menu display with burger details and prices.
-
 Contact/order section for customer interaction.
-
 Simple, clean, and visually appealing interface.
 
-The Burger House Website demonstrates how a static website can effectively promote a business and provide customers with essential information in an attractive, accessible format.
+
+🛠️ Tech Stack
+HTML5 – Page structure.
+CSS3 – Styling and responsive layout.
+JavaScript (ES6) – Dynamic functionality and interactivity.
+
+
+🚀 Getting Started
+1. Clone the repository
+git clone https://github.com/MargaretDefang/burger-house-website.git
+
+2. Open in browser
+Just open index.html in your favorite browser.
+(No server setup required for basic functionality.)
+
+
+📌 Future Improvements
+- Online ordering system with checkout.
+- Customer reviews and testimonials section.
+- Dark/Light mode toggle.
+- Integration with a backend or API for real orders.
+
+
+
+
+
+
+
